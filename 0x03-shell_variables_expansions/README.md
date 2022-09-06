@@ -1,2 +1,1 @@
-#!/bin/bash
-Create a script that creates an alias
+a script that creates an alias
